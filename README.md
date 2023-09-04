@@ -20,5 +20,6 @@ Splliting or sentence tokenize using the sent_tokenize function
 ![image](https://github.com/nmanuvenugopal/Sentence-Embedding-and-Classification/assets/99719105/36add19b-7eb6-4d5d-a18a-f20682e507be)
 
 finally embedding each sentences into numrical vectors.
+
 ![image](https://github.com/nmanuvenugopal/Sentence-Embedding-and-Classification/assets/99719105/f07f404a-c207-42ca-9f20-bcfd8605f885)
 
